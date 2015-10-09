@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.40">
+<Quests Version="1.0.41">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -978,14 +978,21 @@
     <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
     <TR-Name>Saury Fishing: Let's Harvest Some Saury</TR-Name>
     <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
-    <TR-Detail>Defeat enemy fleets in Worlds 1 and 3 and gather 3 saury.</TR-Detail>
+    <TR-Detail>Have 3 sauries in your inventory.</TR-Detail>
   </Quest>
   <Quest>
     <ID>291</ID>
     <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
     <TR-Name>Saury Fishing: You've Got to Harvest More Saury</TR-Name>
     <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
-    <TR-Detail>Ensure the safety of the fishing grounds and gather 10 more saury.</TR-Detail>
+    <TR-Detail>Have 10 sauries in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>292</ID>
+    <JP-Name>秋刀魚漁：もっと頑張ってもいいのよ！</JP-Name>
+    <TR-Name>Saury Fishing: You Can Keep Fishing</TR-Name>
+    <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
+    <TR-Detail>Have 30 sauries in your inventory.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
