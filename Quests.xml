@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.43">
+<Quests Version="1.0.44">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1424,7 +1424,7 @@
   <Quest>
     <ID>626</ID>
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
-    <TR-Name>F22: Reorganisation of the Fighter Forces</TR-Name>
+    <TR-Name>F22m1: Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
     <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap two Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦). A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed.</TR-Detail>
   </Quest>
@@ -1438,7 +1438,7 @@
   <Quest>
     <ID>628</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F25: Model Conversion</TR-Name>
+    <TR-Name>F25m2: Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
     <TR-Detail>With an aircraft carrier equipped with Type 21 Zero Fighter (Skilled) (零戦21型(熟練)) at maximum skill level as your secretary, scrap two Type 52 Zero Fighters (零戦52型).</TR-Detail>
   </Quest>
