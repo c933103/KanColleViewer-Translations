@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.50">
+<Quests Version="1.0.51">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1588,5 +1588,19 @@
     <TR-Name>Happy New Year! Sortie a Carrier Task Force</TR-Name>
     <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie 2 CV/CVB/CVL and up to 4 additional ships to World 6-2 and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>805</ID>
+    <JP-Name>旗艦「霞」北方海域を哨戒せよ！</JP-Name>
+    <TR-Name>B58: Send Kasumi to Patrol the Northern Sea</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 3 DD and up to 2 additional ships to World 3-1 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>806</ID>
+    <JP-Name>旗艦「霞」出撃！敵艦隊を撃滅せよ！</JP-Name>
+    <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
 </Quests>
