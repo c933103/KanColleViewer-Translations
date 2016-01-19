@@ -12,7 +12,7 @@
   </Item>
   <Item>
     <Name>Operations</Name>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Operations.xml</URL>
   </Item>
   <Item>
@@ -29,5 +29,10 @@
     <Name>ShipTypes</Name>
     <Version>1.0.8</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/ShipTypes.xml</URL>
+  </Item>
+  <Item>
+    <Name>Data</Name>
+    <Version>1.0.0</Version>
+    <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Data.xml</URL>
   </Item>
 </Versions>
