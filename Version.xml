@@ -2,7 +2,7 @@
 <Versions>
   <Item>
     <Name>Equipment</Name>
-    <Version>1.0.35</Version>
+    <Version>1.1.0</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Equipment.xml</URL>
   </Item>
   <Item>
@@ -17,12 +17,12 @@
   </Item>
   <Item>
     <Name>Quests</Name>
-    <Version>1.0.54</Version>
+    <Version>1.0.55</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Quests.xml</URL>
   </Item>
   <Item>
     <Name>Ships</Name>
-    <Version>1.0.36</Version>
+    <Version>1.1.0</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Ships.xml</URL>
   </Item>
   <Item>
