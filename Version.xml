@@ -17,12 +17,12 @@
   </Item>
   <Item>
     <Name>Quests</Name>
-    <Version>1.0.55</Version>
+    <Version>1.0.56</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Quests.xml</URL>
   </Item>
   <Item>
     <Name>Ships</Name>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
     <URL>https://raw.githubusercontent.com/gakada/KanColleViewer-Translations/release/Ships.xml</URL>
   </Item>
   <Item>
