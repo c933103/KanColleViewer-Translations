@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.0">
+<Equipment Version="1.1.1">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -667,6 +667,18 @@
   <Item>
     <JP-Name>二式水戦改</JP-Name>
     <TR-Name>Type 2 Seaplane Fighter Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九六式陸攻</JP-Name>
+    <TR-Name>Type 96 Land-based Attack Aircraft</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式陸攻</JP-Name>
+    <TR-Name>Type 1 Land-based Attack Aircraft</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 40mm四連装機関砲</JP-Name>
+    <TR-Name>Bofors 40mm Quadruple Autocannon Mount</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.5inch連装副砲</JP-Name>
