@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.56">
+<Quests Version="1.0.57">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -489,6 +489,13 @@
     <TR-Name>A68: Organise the High-Speed Transport Fleet</TR-Name>
     <JP-Detail>「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Sendai Kai2 (川内改二) as the flagship, Kawakaze Kai2 (江風改二), Shigure Kai2 (時雨改二) and two destroyers in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>174</ID>
+    <JP-Name>新編「水雷戦隊」を含む艦隊を再編成せよ！</JP-Name>
+    <TR-Name>A69: Organise a New Torpedo Squadron</TR-Name>
+    <JP-Detail>軽巡級を旗艦とした駆逐艦4隻からなる強力な水雷戦隊を含む艦隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have a light cruiser as the flagship and 4 destroyers in any of your fleets.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1735,5 +1742,19 @@
     <TR-Name>B69: Sortie the First Carrier Division to the West</TR-Name>
     <JP-Detail>旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Akagi (赤城) as the flagship, Kaga (加賀) and up to 4 additional ships to World 4-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>817</ID>
+    <JP-Name>新編艦隊、南西諸島防衛線へ急行せよ！</JP-Name>
+    <TR-Name>B70: Set Sail Towards the Nansei Islands Defence Line</TR-Name>
+    <JP-Detail>水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a light cruiser flagship, 4 destroyers, and up to 1 additional ship to World 1-4 and score an A rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>818</ID>
+    <JP-Name>鎮守府近海航路の安全確保を強化せよ！</JP-Name>
+    <TR-Name>B71: Ensure the Safety of the Naval Base's Nearby Routes</TR-Name>
+    <JP-Detail>水雷戦隊を含む新編艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a light cruiser flagship, 4 destroyers, and up to 1 additional ship to World 1-6 and complete the map.</TR-Detail>
   </Quest>
 </Quests>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Data Version="1.1.0" Source="https://github.com/KC3Kai/KC3Kai/blob/master/src/data/edges.json">
+<Data Version="1.1.1" Source="https://github.com/KC3Kai/KC3Kai/blob/master/src/data/edges.json">
   <Map>
     <Code>0</Code>
     <Edge>
@@ -1313,6 +1313,16 @@
       <To>J</To>
     </Edge>
     <Edge>
+      <ApiNo>11</ApiNo>
+      <From>J</From>
+      <To>L</To>
+    </Edge>
+    <Edge>
+      <ApiNo>12</ApiNo>
+      <From>H</From>
+      <To>K</To>
+    </Edge>
+    <Edge>
       <ApiNo>13</ApiNo>
       <From>H</From>
       <To>M</To>
@@ -1918,7 +1928,7 @@
     </Edge>
   </Map>
   <Map>
-    <Code>36</Code>
+    <Code>33</Code>
     <Edge>
       <ApiNo>1</ApiNo>
       <From>Start</From>
@@ -1936,7 +1946,7 @@
     </Edge>
     <Edge>
       <ApiNo>4</ApiNo>
-      <From>F</From>
+      <From>A</From>
       <To>D</To>
     </Edge>
     <Edge>
@@ -1946,7 +1956,7 @@
     </Edge>
     <Edge>
       <ApiNo>6</ApiNo>
-      <From>B</From>
+      <From>C</From>
       <To>F</To>
     </Edge>
     <Edge>
@@ -1956,75 +1966,12 @@
     </Edge>
     <Edge>
       <ApiNo>8</ApiNo>
-      <From>I</From>
-      <To>H</To>
-    </Edge>
-    <Edge>
-      <ApiNo>9</ApiNo>
-      <From>G</From>
-      <To>I</To>
-    </Edge>
-    <Edge>
-      <ApiNo>10</ApiNo>
-      <From>D</From>
-      <To>J</To>
-    </Edge>
-    <Edge>
-      <ApiNo>11</ApiNo>
       <From>H</From>
-      <To>D</To>
-    </Edge>
-    <Edge>
-      <ApiNo>12</ApiNo>
-      <From>E</From>
-      <To>F</To>
-    </Edge>
-  </Map>
-  <Map>
-    <Code>37</Code>
-    <Edge>
-      <ApiNo>1</ApiNo>
-      <From>Start</From>
-      <To>A</To>
-    </Edge>
-    <Edge>
-      <ApiNo>2</ApiNo>
-      <From>A</From>
-      <To>B</To>
-    </Edge>
-    <Edge>
-      <ApiNo>3</ApiNo>
-      <From>Start</From>
-      <To>C</To>
-    </Edge>
-    <Edge>
-      <ApiNo>4</ApiNo>
-      <From>C</From>
-      <To>D</To>
-    </Edge>
-    <Edge>
-      <ApiNo>5</ApiNo>
-      <From>A</From>
-      <To>E</To>
-    </Edge>
-    <Edge>
-      <ApiNo>6</ApiNo>
-      <From>B</From>
-      <To>F</To>
-    </Edge>
-    <Edge>
-      <ApiNo>7</ApiNo>
-      <From>C</From>
-      <To>G</To>
-    </Edge>
-    <Edge>
-      <ApiNo>8</ApiNo>
-      <From>F</From>
-      <To>H</To>
+      <To>K</To>
     </Edge>
     <Edge>
       <ApiNo>9</ApiNo>
-      <From>E</From>
+      <From>J</From>
       <To>I</To>
     </Edge>
     <Edge>
@@ -2034,166 +1981,58 @@
     </Edge>
     <Edge>
       <ApiNo>11</ApiNo>
-      <From>G</From>
+      <From>M</From>
       <To>K</To>
     </Edge>
     <Edge>
       <ApiNo>12</ApiNo>
-      <From>H</From>
+      <From>J</From>
       <To>L</To>
     </Edge>
     <Edge>
       <ApiNo>13</ApiNo>
-      <From>J</From>
+      <From>Start</From>
       <To>M</To>
     </Edge>
     <Edge>
       <ApiNo>14</ApiNo>
-      <From>K</From>
+      <From>F</From>
       <To>N</To>
     </Edge>
     <Edge>
       <ApiNo>15</ApiNo>
-      <From>M</From>
-      <To>O</To>
+      <From>B</From>
+      <To>D</To>
     </Edge>
     <Edge>
       <ApiNo>16</ApiNo>
       <From>E</From>
-      <To>F</To>
+      <To>D</To>
     </Edge>
     <Edge>
       <ApiNo>17</ApiNo>
-      <From>D</From>
-      <To>G</To>
+      <From>G</From>
+      <To>D</To>
     </Edge>
     <Edge>
       <ApiNo>18</ApiNo>
-      <From>I</From>
+      <From>K</From>
       <To>J</To>
     </Edge>
     <Edge>
       <ApiNo>19</ApiNo>
-      <From>K</From>
-      <To>L</To>
-    </Edge>
-    <Edge>
-      <ApiNo>20</ApiNo>
       <From>L</From>
-      <To>M</To>
-    </Edge>
-    <Edge>
-      <ApiNo>21</ApiNo>
-      <From>N</From>
-      <To>O</To>
-    </Edge>
-  </Map>
-  <Map>
-    <Code>38</Code>
-    <Edge>
-      <ApiNo>1</ApiNo>
-      <From>Start</From>
-      <To>A</To>
-    </Edge>
-    <Edge>
-      <ApiNo>2</ApiNo>
-      <From>A</From>
-      <To>B</To>
-    </Edge>
-    <Edge>
-      <ApiNo>3</ApiNo>
-      <From>B</From>
-      <To>C</To>
-    </Edge>
-    <Edge>
-      <ApiNo>4</ApiNo>
-      <From>B</From>
-      <To>D</To>
-    </Edge>
-    <Edge>
-      <ApiNo>5</ApiNo>
-      <From>Start</From>
-      <To>E</To>
-    </Edge>
-    <Edge>
-      <ApiNo>6</ApiNo>
-      <From>E</From>
-      <To>F</To>
-    </Edge>
-    <Edge>
-      <ApiNo>7</ApiNo>
-      <From>D</From>
-      <To>G</To>
-    </Edge>
-    <Edge>
-      <ApiNo>8</ApiNo>
-      <From>F</From>
-      <To>H</To>
-    </Edge>
-    <Edge>
-      <ApiNo>9</ApiNo>
-      <From>H</From>
       <To>I</To>
     </Edge>
     <Edge>
-      <ApiNo>10</ApiNo>
-      <From>Start</From>
-      <To>J</To>
-    </Edge>
-    <Edge>
-      <ApiNo>11</ApiNo>
-      <From>J</From>
-      <To>K</To>
-    </Edge>
-    <Edge>
-      <ApiNo>12</ApiNo>
+      <ApiNo>20</ApiNo>
       <From>I</From>
-      <To>L</To>
-    </Edge>
-    <Edge>
-      <ApiNo>13</ApiNo>
-      <From>J</From>
-      <To>M</To>
-    </Edge>
-    <Edge>
-      <ApiNo>14</ApiNo>
-      <From>P</From>
       <To>N</To>
     </Edge>
     <Edge>
-      <ApiNo>16</ApiNo>
-      <From>M</From>
-      <To>P</To>
-    </Edge>
-    <Edge>
-      <ApiNo>17</ApiNo>
-      <From>N</From>
-      <To>Q</To>
-    </Edge>
-    <Edge>
-      <ApiNo>19</ApiNo>
-      <From>G</From>
-      <To>S</To>
-    </Edge>
-    <Edge>
-      <ApiNo>20</ApiNo>
-      <From>L</From>
-      <To>T</To>
-    </Edge>
-    <Edge>
       <ApiNo>21</ApiNo>
-      <From>C</From>
-      <To>D</To>
-    </Edge>
-    <Edge>
-      <ApiNo>22</ApiNo>
-      <From>K</From>
-      <To>I</To>
-    </Edge>
-    <Edge>
-      <ApiNo>24</ApiNo>
-      <From>Q</From>
-      <To>T</To>
+      <From>J</From>
+      <To>N</To>
     </Edge>
   </Map>
 </Data>
